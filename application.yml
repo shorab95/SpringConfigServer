@@ -1,0 +1,3 @@
+movie:
+     provider:
+             url:http://localhost:8094/api/MovieService
